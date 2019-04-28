@@ -1,5 +1,5 @@
 // A basic class component that shows a picture
-
+//
 class Hello extends React.Component {
   render() {
     return (
