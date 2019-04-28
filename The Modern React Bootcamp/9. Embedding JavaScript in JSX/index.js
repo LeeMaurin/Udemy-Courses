@@ -1,3 +1,5 @@
+// A class component that introduces an embedded external function
+
 function myMood() {
   const moods = ['sleepy', 'happy', 'angry', 'silly', 'quiet'];
   return moods[Math.floor(Math.random() * moods.length)];
