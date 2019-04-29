@@ -1,3 +1,5 @@
+// A React component that dispays a picture
+
 class Hello extends React.Component {
   render() {
     return (
