@@ -1,3 +1,5 @@
+// A React compotent used to generate a random mood type.
+
 function myMood() {
   const moods = ['sleepy', 'happy', 'angry', 'silly', 'quiet'];
   return moods[Math.floor(Math.random() * moods.length)];
