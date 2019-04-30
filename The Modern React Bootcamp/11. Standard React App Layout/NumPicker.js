@@ -1,4 +1,5 @@
-A React component that generates a random number from 1 to 10.
+// A React component that generates a random number from 1 to 10.
+// If the number is 7, then component displays "Congrats!'.
 
 function getNum() {
   return Math.floor(Math.random() * 10) + 1;
