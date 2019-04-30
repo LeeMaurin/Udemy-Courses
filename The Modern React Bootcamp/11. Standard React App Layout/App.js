@@ -1,3 +1,5 @@
+// An "App" component that runs two components
+
 class App extends React.Component {
   render() {
     return (
