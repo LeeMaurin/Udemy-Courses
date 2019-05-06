@@ -2,7 +2,7 @@
 // At the terminal prompt, type: node strings.js. 
 // Note: you must be in the subdirectory where the JavaScript file is located.
 
-
+// This code outputs an full string statement generated from variables.
 let name = 'Lee Maurin';
 
 console.log(name);
