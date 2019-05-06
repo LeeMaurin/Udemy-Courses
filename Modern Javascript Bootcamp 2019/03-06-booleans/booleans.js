@@ -2,6 +2,8 @@
 // At the terminal prompt, type: node booleans.js. 
 // Note: you must be in the subdirectory where the JavaScript file is located.
 
+// This code divides an age into 1 of 3 catagories: child discount, senior discount or no discount.
+
 let age = 3;
 
 if (age <= 7) {
@@ -15,7 +17,4 @@ if (age >= 65) {
 if (age > 7 && age < 65) {
   console.log('You do not get a discount.');
 }
-// let childDiscount = age <= 7;
-// let seniorDiscount = age >= 65;
-// console.log('Child Discount = ' + childDiscount);
-// console.log('Senior Discount = ' + seniorDiscount);
+
