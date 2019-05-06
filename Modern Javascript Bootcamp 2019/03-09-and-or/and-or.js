@@ -2,6 +2,8 @@
 // At the terminal prompt, type: node and-or.js. 
 // Note: you must be in the subdirectory where the JavaScript file is located.
 
+// This code catagorizes restaurant menus into three types:  vegan, vegan & meat and meat lovers.
+
 let isGuest1Vegan = true;
 let isGuest2Vegan = true;
 
