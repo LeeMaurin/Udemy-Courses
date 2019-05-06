@@ -2,6 +2,8 @@
 // At the terminal prompt, type: node advanced-if.js. 
 // Note: you must be in the subdirectory where the JavaScript file is located.
 
+// This code divides a input temperature into three catagories:  too cold, too hot or pretty nice.
+
 let temp = 20;
 
 if (temp <= 32) {
