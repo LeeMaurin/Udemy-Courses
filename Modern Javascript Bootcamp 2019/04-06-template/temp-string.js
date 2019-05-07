@@ -2,7 +2,7 @@
 // At the terminal prompt, type: node temp-string.js. 
 // Note: you must be in the subdirectory where the JavaScript file is located.
 
-This code utilizes a function to generate a statement.
+// This code utilizes a function to generate a statement.
 
 let tip = function(total, tip = 0.2) {
   let totalWithTip = total + total * tip;
