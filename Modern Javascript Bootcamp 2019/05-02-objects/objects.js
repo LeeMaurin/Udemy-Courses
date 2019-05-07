@@ -2,6 +2,7 @@
 // At the terminal prompt, type: node filename.js.
 // Note: you must be in the subdirectory where the JavaScript file is located.
 
+// This code generates a statement by retrieving data from an object.
 
 let person = {
   name: 'Lee',
