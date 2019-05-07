@@ -2,7 +2,8 @@
 // At the terminal prompt, type: node filename.js.
 // Note: you must be in the subdirectory where the JavaScript file is located.
 
-
+// Code that generates the same temperature in fahrenheit, celcius and kelvin by
+// utilizing a function with an embedded object.
 
 let convert = function(temp) {
   return {
