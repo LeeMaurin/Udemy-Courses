@@ -2,7 +2,7 @@
 // At the terminal prompt, type: node filename.js.
 // Note: you must be in the subdirectory where the JavaScript file is located.
 
-
+// This code generates output utilizing an object and multiple functions.
 
 let myAccount = {
   name: 'Lee',
