@@ -2,6 +2,8 @@
 // At the terminal prompt, type: node functions.js. 
 // Note: you must be in the subdirectory where the JavaScript file is located.
 
+// This code utilizes a function to convert a farenheit temperature into celcius.
+
 let convert = function(temp) {
   let celcius = (temp - 32) * (5 / 9);
   return celcius;
