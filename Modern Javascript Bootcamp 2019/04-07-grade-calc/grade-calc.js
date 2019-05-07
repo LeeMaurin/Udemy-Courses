@@ -2,7 +2,7 @@
 // At the terminal prompt, type: node filename.js. 
 // Note: you must be in the subdirectory where the JavaScript file is located.
 
-
+// Exploring the if statement to generate a proper grade for a given score.
 
 let student = function(studentScore, maxScore) {
   let testScore = (studentScore / maxScore) * 100;
