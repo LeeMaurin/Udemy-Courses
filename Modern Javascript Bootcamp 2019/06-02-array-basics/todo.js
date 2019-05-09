@@ -2,7 +2,8 @@
 // At the terminal prompt, type: node filename.js. 
 // Note: you must be in the subdirectory where the JavaScript file is located.
 
-
+// The toDoList array is utilized in three ways:
+// 1. 
 
 const toDoList = ['walk the dog', 'walk the cat', 'code', 'eat', 'cook'];
 console.log(`You have ${toDoList.length} todos.`);
