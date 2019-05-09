@@ -10,6 +10,6 @@ console.log(toDoList.splice(2, 1)); // removes 'code' from the array
 console.log(toDoList);
 toDoList.push('workout');  // adds the element 'workout' to the array
 console.log(toDoList);
-toDoList.pop();  
+toDoList.pop();  // removes the last element, 'workout' from the array
 console.log(toDoList);
 console.log(`You have ${toDoList.length} todos.`);
