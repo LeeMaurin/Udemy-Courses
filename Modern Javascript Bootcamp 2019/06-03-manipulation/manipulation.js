@@ -2,7 +2,7 @@
 // At the terminal prompt, type: node filename.js.
 // Note: you must be in the subdirectory where the JavaScript file is located.
 
-
+// The following code displays to the console various changes to the array.
 
 
 let toDoList = ['walk the dog', 'walk the cat', 'code', 'eat', 'cook'];
