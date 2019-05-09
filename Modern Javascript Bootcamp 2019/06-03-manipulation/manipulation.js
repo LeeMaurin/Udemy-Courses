@@ -4,10 +4,9 @@
 
 // The following code displays to the console various changes to the array.
 
-
 let toDoList = ['walk the dog', 'walk the cat', 'code', 'eat', 'cook'];
 
-console.log(toDoList.splice(2, 1));
+console.log(toDoList.splice(2, 1)); // removes 'code' from the array
 console.log(toDoList);
 toDoList.push('workout');
 console.log(toDoList);
