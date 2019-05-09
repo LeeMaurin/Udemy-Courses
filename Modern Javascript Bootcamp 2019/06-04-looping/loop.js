@@ -1,3 +1,6 @@
+
+
+
 let toDoList = ['walk the dog', 'walk the cat', 'code', 'eat', 'cook'];
 
 // console.log(toDoList.splice(2, 1));
