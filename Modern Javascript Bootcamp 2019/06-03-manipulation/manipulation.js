@@ -12,4 +12,4 @@ toDoList.push('workout');  // adds the element 'workout' to the array
 console.log(toDoList);
 toDoList.pop();  // removes the last element, 'workout' from the array
 console.log(toDoList);
-console.log(`You have ${toDoList.length} todos.`);
+console.log(`You have ${toDoList.length} todos.`);  // returns to the console a statement 'You have 4 todos'.
