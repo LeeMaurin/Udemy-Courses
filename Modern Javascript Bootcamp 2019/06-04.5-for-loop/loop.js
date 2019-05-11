@@ -10,6 +10,8 @@ for (let count = 0; count < toDoList.length -1; count++) {
   console.log(`${count + 1}. ${toDoList[count]} `);
 }
 
+// Here is the output:
+
 // 1. walk the dog
 // 2. walk the cat
 // 3. code
