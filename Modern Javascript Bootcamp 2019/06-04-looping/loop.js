@@ -11,6 +11,8 @@ toDoList.forEach(function(item, index) {
   console.log(`${index + 1}. ${item}.`);
 });
 
+// The following is the output:
+
 // 1. walk the dog
 // 2. walk the cat
 // 3. code
