@@ -2,11 +2,11 @@
 // At the terminal prompt, type: node filename.js. 
 // Note: you must be in the subdirectory where the JavaScript file is located.
 
-
+// The forEach loop displays each element in the array.
 
 let toDoList = ['walk the dog', 'walk the cat', 'code', 'eat', 'cook'];
 
 toDoList = toDoList.splice(0, 2);
 toDoList.forEach(function(item, index) {
-  console.log(`${index + 1}. ${item}.`);
+  console.log(`${index + 1}. ${item}.`);ea
 });
