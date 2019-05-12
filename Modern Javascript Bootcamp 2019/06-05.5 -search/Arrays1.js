@@ -2,6 +2,8 @@
 // At the terminal prompt, type: node filename.js. 
 // Note: you must be in the subdirectory where the JavaScript file is located.
 
+This code returns the index location of "Somewhere in Oz" in the array of objects.
+
 const notes = [
   {
     title: 'my next trip',
