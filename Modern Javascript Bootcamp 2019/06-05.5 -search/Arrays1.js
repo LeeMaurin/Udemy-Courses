@@ -22,4 +22,8 @@ const notes = [
 const index = notes.findIndex(function(note, index) {
   return note.body === 'Somewhere in Oz';
 });
+
+
 console.log(index);
+
+// Returns an index of 0
