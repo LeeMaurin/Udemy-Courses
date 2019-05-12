@@ -14,5 +14,8 @@ for (let count = 0; count < toDoList.length-1; count++) {
 
 // 1. walk the dog
 // 2. walk the cat
+// 3. code
+// 4. eat
+// 5. cook
 
 
