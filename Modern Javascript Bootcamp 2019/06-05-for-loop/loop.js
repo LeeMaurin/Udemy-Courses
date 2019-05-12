@@ -13,4 +13,6 @@ for (let count = 0; count < toDoList.length-1; count++) {
 // Here is the output: 
 
 // 1. walk the dog
+// 2. walk the cat
+
 
