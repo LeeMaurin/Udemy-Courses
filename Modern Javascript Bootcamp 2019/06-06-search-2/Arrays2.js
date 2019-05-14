@@ -19,6 +19,12 @@ const notes = [
   }
 ];
 
+const findNote = function (notes, noteTitle) {
+    return notes.find(function (note, index) {
+        return note.title.toLowerCase() === noteTitle.toLowerCase()
+    })
+}
+
 const findNote = function(notes, noteTitle) {};
 
 const note = findNote(notes, 'trip number three');
