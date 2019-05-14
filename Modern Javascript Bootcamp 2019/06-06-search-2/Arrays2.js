@@ -28,7 +28,7 @@ const findNote = function (notes, noteTitle) {
 const note = findNote(notes, 'trip number three');
 console.log(note);
 
-const index = notes.findIndex(function(note, index) {
-  return note.body === 'Somewhere in Oz';
-});
-console.log(index);
+// const index = notes.findIndex(function(note, index) {
+//   return note.body === 'Somewhere in Oz';
+// });
+// console.log(index);
