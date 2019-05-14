@@ -25,8 +25,6 @@ const findNote = function (notes, noteTitle) {
     })
 }
 
-const findNote = function(notes, noteTitle) {};
-
 const note = findNote(notes, 'trip number three');
 console.log(note);
 
