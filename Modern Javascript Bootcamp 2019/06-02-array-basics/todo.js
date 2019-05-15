@@ -1,5 +1,5 @@
 // This is a stand-alone JavaScript file. It can be run in node.js.
-// At the terminal prompt, type: node filename.js. 
+// At the terminal prompt, type: node todo.js. 
 // Note: you must be in the subdirectory where the JavaScript file is located.
 
 // The toDoList array is utilized to generate three outputs: 
