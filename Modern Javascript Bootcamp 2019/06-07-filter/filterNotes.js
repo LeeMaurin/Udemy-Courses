@@ -1,3 +1,6 @@
+This is a stand-alone JavaScript file. It can be run in node.js. At the terminal prompt, type: node filename.js. Note: you must be in the subdirectory where the JavaScript file is located.
+
+
 const notes = [{
     title: 'My next trip',
     body: 'I would like to go to Spain'
@@ -25,12 +28,7 @@ const findNotes = function (notes, query) {
 
 console.log(findNotes(notes, 'eating'))
 
-// const findNote = function (notes, noteTitle) {
-//     const index = notes.findIndex(function (note, index) {
-//         return note.title.toLowerCase() === noteTitle.toLowerCase()
-//     })
-//     return notes[index]
-// }
+
 
 const note = findNote(notes, 'some other office modification')
 console.log(note)
