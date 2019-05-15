@@ -1,5 +1,5 @@
 // This is a stand-alone JavaScript file. It can be run in node.js. 
-// At the terminal prompt, type: node filename.js. 
+// At the terminal prompt, type: node grade-calc.js. 
 // Note: you must be in the subdirectory where the JavaScript file is located.
 
 // Exploring the if statement to generate a proper grade for a given score.
