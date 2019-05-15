@@ -3,6 +3,8 @@
 // Note: you must be in the subdirectory where the JavaScript file is located.
 
 
+// These functions return a query result based on a filter method.
+
 const notes = [{
     title: 'My next trip',
     body: 'I would like to go to Spain'
