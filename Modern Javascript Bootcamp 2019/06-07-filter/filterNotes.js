@@ -28,7 +28,8 @@ const findNotes = function (notes, query) {
     })
 }
 
-console.log(findNotes(notes, 'eating'))
+console.log(findNotes(notes, 'eating'))  // returns [ { title: 'Habbits to work on',
+                                         //             body: 'Exercise. Eating a bit better.' } ]
 
 
 
