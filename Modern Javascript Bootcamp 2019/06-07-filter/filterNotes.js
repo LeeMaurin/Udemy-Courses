@@ -2,7 +2,6 @@
 // At the terminal prompt, type: node filterNotes.js. 
 // Note: you must be in the subdirectory where the JavaScript file is located.
 
-
 // These functions return a query result based on a filter method.
 
 const notes = [{
