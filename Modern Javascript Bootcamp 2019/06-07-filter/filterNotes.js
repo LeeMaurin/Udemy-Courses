@@ -31,7 +31,5 @@ const findNotes = function (notes, query) {
 console.log(findNotes(notes, 'eating'))  // returns [ { title: 'Habbits to work on',
                                          //             body: 'Exercise. Eating a bit better.' } ]
 
-
-
 const note = findNote(notes, 'some other office modification')
 console.log(note)  // returns 'undefined' because there is no match
