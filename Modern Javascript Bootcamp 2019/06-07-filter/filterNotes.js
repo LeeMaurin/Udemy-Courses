@@ -34,4 +34,4 @@ console.log(findNotes(notes, 'eating'))  // returns [ { title: 'Habbits to work 
 
 
 const note = findNote(notes, 'some other office modification')
-console.log(note)
+console.log(note)  // returns 'undefined' because there is no match
