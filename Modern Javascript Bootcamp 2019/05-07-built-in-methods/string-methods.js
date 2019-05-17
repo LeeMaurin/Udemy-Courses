@@ -1,6 +1,6 @@
 // This is a stand-alone JavaScript file. It can be run in node.js. 
 // At the terminal prompt, type: node filename.js.  
-// Note: you must be in the subdirectory where the JavaScript file is located.
+// Note: you must be in the subdirectory where the JavaScript file is located. 
 
 // The isValidPassword functions tests if a password has at least
 // 8 charaters and does not include the word "password" 
