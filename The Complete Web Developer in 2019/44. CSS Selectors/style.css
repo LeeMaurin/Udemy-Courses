@@ -1,0 +1,11 @@
+h2 {
+  color: red;
+  text-align: center;
+  border: 5px solid teal;
+  cursor: pointer;
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+}
