@@ -1,0 +1,38 @@
+body {
+  background: lightgreen;
+  font-family: 'Lato';
+  color: black;
+}
+
+h1 {
+  font-weight: bolder;
+  text-align: center;
+}
+
+.btn {
+  outline: none;
+  border: none;
+  cursor: pointer;
+  display: block;
+  position: relative;
+  background: darkgreen;
+  font-size: 16px;
+  font-weight: 300;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  padding: 25px 80px;
+  margin: 0 auto;
+  box-shadow: 0 6px #0e9165;
+  border-radius: 20px;
+}
+
+.btn:hover {
+  box-shadow: 0 4px #0e9165;
+  top: 2px;
+}
+
+.btn:active {
+  box-shadow: 0 0 #0e9165;
+  top: 6px;
+}
