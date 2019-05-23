@@ -1,0 +1,26 @@
+<!-- A lesson about form labels. -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Playing with inputs</title>
+  </head>
+  <body>
+    <h1>Login</h1>
+
+    <!-- action - where the form sends data to -->
+    <!-- method - what HTTP method (get/post) -->
+
+    <form action="http://www.wikipedia.org">
+      <label for="username">Username:</label>
+      <input id="username" type="text" placeholder="username" />
+
+      <label for="password">Password:</label>
+      <input id="password" type="password" placeholder="password" />
+      <input type="submit" />
+    </form>
+  </body>
+</html>
