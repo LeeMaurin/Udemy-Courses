@@ -1,0 +1,13 @@
+/* three different ways to declare a color */
+
+h1 {
+  color: rgb(87, 20, 87);
+}
+
+h2 {
+  color: #6b78d4;
+}
+
+h4 {
+  color: rgba(0, 4, 255, 0.5);
+}
