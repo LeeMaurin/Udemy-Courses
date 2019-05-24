@@ -1,0 +1,13 @@
+li {
+  list-style: none;
+  border: 2px solid red;
+  margin-bottom: 5px;
+}
+
+#special {
+  background: yellow;
+}
+
+.completed {
+  text-decoration: line-through;
+}
