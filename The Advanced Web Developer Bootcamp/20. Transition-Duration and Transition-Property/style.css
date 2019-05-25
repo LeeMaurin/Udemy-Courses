@@ -1,0 +1,23 @@
+p {
+  width: 100px;
+  height: 100px;
+  line-height: 100px;
+  font-size: 1.3em;
+  background: purple;
+  color: white;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.animated {
+  transition-property: background, border-radius, opacity;
+  transition-duration: 5s, 1s, 3s;
+}
+
+.box:hover {
+  background: #e74c3c;
+  transform-origin: top left;
+  transform: scale(2);
+  border-radius: 50px;
+  opacity: 0.5;
+}
