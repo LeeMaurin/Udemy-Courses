@@ -1,4 +1,4 @@
-// A React compotent used to generate a random mood 
+// A React compotent used to generate a random 
 
 function myMood() {
   const moods = ['sleepy', 'happy', 'angry', 'silly', 'quiet'];
