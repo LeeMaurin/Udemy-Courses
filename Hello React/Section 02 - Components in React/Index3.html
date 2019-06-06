@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>My Exercise</title>
+ <!-- REACT LIBRARY -->
+ <script src="https://unpkg.com/react@15.5.4/dist/react.js"></script>
+ <!-- REACT DOM LIBRARY -->
+ <script src="https://unpkg.com/react-dom@15.5.4/dist/react-dom.js"></script>
+ <!-- BABEL LIBRARY -->
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.25.0/babel.min.js"></script>   
+</head>
+<body>
+<div id="app">React has not rendered yet!</div>
+<script type="text/babel">
+
+var ColorSpectrum = function () {
+    return (
+        <h1>Red, Orange, Yellow, Green, Blue, Indigo, Violet</h1>
+    );
+}
+
+// ReactDOM.render (
+//     <ColorSpectrum/>,
+// document.getElementById("app")
+// );
+
+var Red = function () {
+    return (
+        <h1>Red</h1>
+    );
+}
+
+var Orange = function () {
+    return (
+        <h1>Orange</h1>
+    );
+}
+
+var Yellow = function () {
+    return (
+        <h1>Yellow</h1>
+    );
+}
+
+
+ReactDOM.render (
+    <div>
+    <Red/>
+    <Orange/>
+    <Yellow/>
+    </div>,
+document.getElementById("app")
+);
+
+</script>    
+</body>
+</html>
