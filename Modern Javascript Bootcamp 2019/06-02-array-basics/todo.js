@@ -1,4 +1,5 @@
-// This is a stand-alone JavaScript file. It can be run in node.js.
+// This is a stand-alone JavaScript file. It can be run in node.js. 
+
 // At the terminal prompt, type: node todo.js. 
 // Note: you must be in the subdirectory where the JavaScript file is located.
 
