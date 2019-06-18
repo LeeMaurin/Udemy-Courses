@@ -1,4 +1,4 @@
-// This code checks if two inputs are anagrams. 
+// This code checks if two inputs are anagrams.
 
 function validAnagram(input1, input2) {
   // check if input1 length is equal to input2 length,
